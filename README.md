@@ -21,4 +21,4 @@ Program se spouští z příkazové řádky následujícím způsobem.
 * ip address - IPv4 adresa (stroje) na které bude server komunikovat
 * port - celé číslo z rozsahu 1 - 65535.
 
-U obou parametrů se předpokladá že hodnota bude řetězec, proto je potřeba umístit oba parametry do uvozovek *"*.
+U obou parametrů se předpokladá že hodnota bude řetězec, proto je potřeba umístit oba parametry do uvozovek (**"**).
