@@ -1,6 +1,6 @@
 # Popis implementace
 
-Jednoduchý vícevláknový http server. Vrací na přijaté požadavky, **HTTP OK (200)** když přijde validní HTTP GET zpráva a pošle data s jednoduchou stránkou s nápisem a výpisem časových údajů. 
+Jednoduchý vícevláknový http server. Vrací na přijaté požadavky **HTTP OK (200)**, když přijde validní HTTP GET zpráva a pošle data s jednoduchou stránkou s nápisem a výpisem časových údajů. 
 Pokud přijde nevalidní HTTP get zpráva posílá **HTTP Bad Request (400)** jako odpověď.
 
 ## Překlad
